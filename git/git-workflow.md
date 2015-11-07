@@ -22,6 +22,11 @@ Viewing Project History
 ## Undo
 
 - `git revert <commit_hash>` to revert your last commit
+- `git commit -amend` to fix the last commit's message or add more files to that commit.
+
+### Unstaging Files
+
+`git reset HEAD <filename>` will remove a file from the staging area, putting it back in your working directory.
 
 ## Keywords for closing issues
 
