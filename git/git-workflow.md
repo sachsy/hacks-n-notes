@@ -19,6 +19,10 @@ Viewing Project History
 - `git log --stat` tells you which files were included in each commit.
 - `git log --patch` shows the actual changes that were made in each commit as diffs
 
+## Undo
+
+- `git revert <commit_hash>` to revert your last commit
+
 ## Keywords for closing issues
 
 The following keywords will close an issue via commit message:
