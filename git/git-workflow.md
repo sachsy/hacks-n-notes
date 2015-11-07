@@ -30,25 +30,21 @@ Viewing Project History
 
 ### Git Reset Modes
 
-The three modes for git reset are: `--soft`, `--mixed`, and `--hard`. For these examples, assume that we have a "clean" working directory, i.e. there are no uncommited changes.
+The three modes for git reset are: `--soft`, `--mixed`, and `--hard`.
 
-#### Soft
-
-`git reset --soft <my-branch> <other-commit>` moves `<my-branch>` to point at `<other-commit>`. However, the working directory and staging area remain untouched. Since the snapshot that `<my-branch>` points to now differs from the index's snapshot, this command effectively stages all differences between those snapshots. This is a good command to use when you have made a large number of small commits and you would like to regroup them into a single commit.
+- `git revert` reverts a specific commit. `git reset` resets git to a specific commit.
+- `git reset --soft <to_commit>` resets git to a specific commit, and puts the commits you're resetting into the staging area where they can be easily re-committed.
+- `git reset --mixed <to_commit>` resets git to a specific commit, and puts the commits you're resetting into the working directory so you can edit them directly.
+- `git reset --hard <to_commit>` resets git to a specific commit, and deletes the commits you're resetting.
+- Just like with git revert you can use the commit ID, or you can use the syntax HEAD~<mumber>. The number you put will be the number of commits backwards from the current HEAD that git will move the new HEAD to.
+ 
+##### TIP
 
 ```
 git reset --soft HEAD~2 # indicates you want to go back two commits.
 ```
 
 Then if you recommit these changes you will stage the commits, leaving a cleaner history.
-
-#### Mixed (default)
-
-With the `--mixed` option, Git makes `<my-branch>` and the staging area look like the `<other-commit>` snapshot. This is the default mode: if you don't include a mode flag, Git will assume you want `--mixed`. `--mixed` is useful if you want to keep all of your changes in the working directory, but change whether and how you commit those changes.
-
-#### Hard
-`--hard` is the most drastic option. With this, Git will now make all 3 snapshots -- , the staging area, and your working directory -- look like they did at `<other-commit>`. This can be dangerous! We've assumed so far that our working directory is clean. If it is not, and you have uncommited changes, `git reset --hard` will delete all of those changes. Even with a clean working directory, use `--hard` only if you're sure you want to completely undo earlier changes.
-
 
 
 ## Keywords for closing issues
