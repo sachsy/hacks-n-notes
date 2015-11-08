@@ -28,4 +28,4 @@ In Real Estate, the Call option would be the down payment. Because it freezes th
 - Why my Purchased Stock Options were the same value as the real stock price when I bought it? Shouldn't it be cheaper since it's just an option?
 - Can I set the price on my stock options?
 - Are Stock Options transferable?
-- Can Big Rentz stock shares give dividends?
+- Can stock shares give dividends?
