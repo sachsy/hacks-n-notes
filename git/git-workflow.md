@@ -23,6 +23,7 @@ Viewing Project History
 
 - `git revert <commit_hash>` to revert your last commit
 - `git commit -amend` to fix the last commit's message or add more files to that commit.
+- `git checkout --<filename>` is the syntax. The `--` lets Git know you're talking about a file. This will revert the file to the version found in the last commit.
 
 ### Unstaging Files
 
