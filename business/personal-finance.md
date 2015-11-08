@@ -39,9 +39,11 @@ When buying a luxury liability, has to be from the profit of the assets.
 
 ### Whiz kids and supercomputers
 
-"In the new capitalism, most paper investors are looking for the quick buck, to make a killing. Today, the big investment houses are hiring the smartest whiz kids out of college and using the power of supercomputers and computer models to look for the slightest market patterns they can exploit. For example, if the computer picks up a 1 percent differential, let's say in tech stocks, the investment house will bet millions of dollars, hoping to gain 1 percent on millions of dollars in a few hours. This is very high leverage, and very risky.
+> "In the new capitalism, most paper investors are looking for the quick buck, to make a killing. Today, the big investment houses are hiring the smartest whiz kids out of college and using the power of supercomputers and computer models to look for the slightest market patterns they can exploit. For example, if the computer picks up a 1 percent differential, let's say in tech stocks, the investment house will bet millions of dollars, hoping to gain 1 percent on millions of dollars in a few hours. This is very high leverage, and very risky.
 
-These computer models also cause a lot of the volatility in the markets and often cause crashes. When the stock market announces that program trading has been halted, it is talking about these computer programs' being halted. The markets crash if the computers say *sell*. If the computers say *buy* the markets boom, and then they crash. In other words, *prices can go up or down for no fundamental or business reason at all*. A stock price may have no relationship to the value of the company because the computers created an artificial supply or demand." - Increase your financial IQ, Robery Kiyosaki
+> These computer models also cause a lot of the volatility in the markets and often cause crashes. When the stock market announces that program trading has been halted, it is talking about these computer programs' being halted. The markets crash if the computers say *sell*. If the computers say *buy* the markets boom, and then they crash. In other words, *prices can go up or down for no fundamental or business reason at all*. A stock price may have no relationship to the value of the company because the computers created an artificial supply or demand." 
+
+- Increase your financial IQ, Robery Kiyosaki
 
 Stock shares can give dividend. It's a big gamble to invest in companies just for capital gain. If you invest in stock that gives dividend, then you invest in cash flow too. If the cost per share goes down but the dividend income keeps steady, then the cost for the cashflow is lower and it's a good deal.
 
