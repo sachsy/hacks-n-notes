@@ -6,6 +6,13 @@ Apps are a controllable investment because you can improve them, maintain them, 
 
 Apps have little tax advantage. I don't know how the ad monetization is taxed.
 
-## Questions
 
-- How to use Other People's money?
+## App micro tool financials
+
+- Monetize
+- Protect your niche (create a brand)
+- Budget spending and resources
+- Leverage by scaling
+- Leverage by localizing for other countries
+- Leverage by automatizing
+- Predictability - how predictable is the income
