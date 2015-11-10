@@ -12,6 +12,11 @@
 - **lightweight tag:** is very much like a branch that doesn’t change – it’s just a pointer to a specific commit.
 - **annotated tag:** are stored as full objects in the Git database. (recommended)
 
+#### Lightweight tags
+
+To create a lightweight tag, don’t supply the `-a`, `-s`, or `-m` option.
+This is basically the commit checksum stored in a file – no other information is kept.
+
 #### Annotated tags
 
 They’re checksummed; contain the tagger name, email, and date; have a tagging message; and can be signed and verified with GNU Privacy Guard (GPG).
@@ -25,4 +30,10 @@ That shows:
 - the tagger information
 - the date the commit was tagged
 - the annotation message before showing the commit information.
+
+### Tagging Later
+
+
+
+
 
