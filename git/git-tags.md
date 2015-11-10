@@ -33,6 +33,8 @@ That shows:
 
 ### Tagging Later
 
+Just add the commit hash at the end.
+
 
 
 
