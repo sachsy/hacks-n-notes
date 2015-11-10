@@ -41,5 +41,3 @@ Just add the commit hash at the end.
 
 - `git push origin --tags` pushes all tags
 - `git push origin v1.5` pushes a specific tag
-
-### Checking out Tags
