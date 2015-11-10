@@ -10,9 +10,19 @@
 ### Types
 
 - **lightweight tag:** is very much like a branch that doesn’t change – it’s just a pointer to a specific commit.
-- **annotated tag:** are stored as full objects in the Git database.
+- **annotated tag:** are stored as full objects in the Git database. (recommended)
 
 #### Annotated tags
 
 They’re checksummed; contain the tagger name, email, and date; have a tagging message; and can be signed and verified with GNU Privacy Guard (GPG).
+
+- You need to use `-a` flag eg. `git tag -a v1.4 -m 'my version 1.4'`
+
+You can see the tag data along with the commit that was tagged by using the git `show` command:
+eg. `git show v1.4`
+
+That shows:
+- the tagger information
+- the date the commit was tagged
+- the annotation message before showing the commit information.
 
