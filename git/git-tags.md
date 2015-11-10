@@ -37,5 +37,9 @@ Just add the commit hash at the end.
 
 `git tag -a v1.2 9fceb02`
 
+### Sharing Later
 
+- `git push origin --tags` pushes all tags
+- `git push origin v1.5` pushes a specific tag
 
+### Checking out Tags
