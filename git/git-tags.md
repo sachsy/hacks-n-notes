@@ -35,7 +35,7 @@ That shows:
 
 Just add the commit hash at the end.
 
-
+`git tag -a v1.2 9fceb02`
 
 
 
