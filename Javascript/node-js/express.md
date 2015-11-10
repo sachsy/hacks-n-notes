@@ -5,7 +5,7 @@
 
 ## NPM Licenses
 
-- npm **license-spelunker** checks licenses of npm package dependencies.
+- npm [license-checker](https://github.com/davglass/license-checker) checks licenses of npm package dependencies.
 - some npm packages might not allow the use on closed-source software.
 - **MIT** license allows you to do anything
 - **GNU/GPL** license can NOT be used in close-sourced software
