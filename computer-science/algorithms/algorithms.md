@@ -20,3 +20,14 @@ Minimax algorithms | Checkers
 
 - Thomas Cormen
 - Devin Balkom
+
+### Search Algorithms
+
+#### Binary Search Algorithm
+
+Finds items from an ordered list.
+
+##### Steps
+
+- Divide half portion of the list that could contain the searched item.
+- Repeat until narrow to one item.
