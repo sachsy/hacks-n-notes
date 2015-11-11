@@ -17,3 +17,10 @@ The `#` shows that the user is a **root user** (administrator)
 - `home/` is where the user directories are.
 - `/var/log/` is where the system logs are.
 - `/var/log/dmesg/` the boot log.
+
+## Filesystem Hierarchy Standard
+
+Describes locations, permissions, filenames.
+
+[FHS Docs](http://www.pathname.com/fhs/)
+
