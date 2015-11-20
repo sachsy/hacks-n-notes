@@ -737,6 +737,41 @@ Promise.all([usersPromise, postsPromise])
 - Promise.reject(reason); // Create a promise that is already rejected
 - Promise.resolve(value); // Create a promise that is already resolved
  
+### Use case: Promise to make an HTTP call
+
+```javascript
+function createRabbit(url, name, isActive = true) {
+    return new Promise((resolve, reject) => {
+    
+        if (!name) {
+            log.error('ERROR createRabbit name missing');
+            reject(new Error('Name missing'));
+            return this;
+        }
+        request
+            .post(url)
+            .send({ name, isActive})
+            .set('Accept', 'application/json')
+            .set('User-Agent', USER_AGENT)
+            .end((err, result) => {
+                if (err) {
+                    reject(err);
+                    return;
+                }
+
+                const {rabbitId} = result.body;
+
+                if (rabbitId) {
+                    log.info('createRabbit success', {rabbitId});
+                    resolve(rabbitId);
+                } else {
+                    log.info('FAILED createRabbit', {body: result.body});
+                    reject(new Error('Unable to create rabbit.'));
+                }
+            });
+    });
+}
+```
 ## Generators
 
 Generators are functions which can be exited and later re-entered. Useful for long iteration functions, so they can be paused to prevent blocking other functions for too long.
