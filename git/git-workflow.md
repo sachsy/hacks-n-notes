@@ -68,3 +68,12 @@ The following keywords will close an issue via commit message:
 - You do this by setting a global alias using `git config`.
 - `git config --global alias.lol "log --oneline --graph --decorate --all"` would let you type `git lol` instead of the entire log command with all its options.
 - `git config --global alias.co "commit -m"` would let you write `git co "Commit Message"` to quickly commit with a message attached.
+
+## Remote repositories
+
+### Fetching a remote
+
+[Fetching a remote](https://help.github.com/articles/fetching-a-remote/)
+
+- `git fetch upstream`
+- `git merge upstream/master` 
