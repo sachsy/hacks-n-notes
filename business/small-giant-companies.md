@@ -21,3 +21,9 @@
 - What do I want to do with my life?
 
 - A small giant's mojo and its business potential to make positive difference in the lives of people it comes in contact with.
+
+> I don't want to do another project unless it's special in some way, and that means the context has to be right.
+- Danny Meyer
+
+- Small giant companies have strong sense of who they are, where they belong and how they're making a difference to their neighbors, friends, etc.
+- French word *terroir*
