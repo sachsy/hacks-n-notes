@@ -10,15 +10,19 @@ Rendering algorithm | Determine how to display the lightning in a 3D rendered ob
 Optimization & Scheduling algorithm | To arrange the solar panels in satellites
 Minimax algorithms | Checkers
 
-## Evaluating performance
-
-### Asymptotic Analysis
+## Asymptotic Analysis
 
 **Asymptotic Analyisis** is a technique evaluates an algorithm efficiency independently of the computer hardware, programming language, and input.
 
+Measures how long does it take to compute *n* elements and how much does that time increases when the *n* input increases.
+
+For sake of simplicity, we drop the insignificant terms and the constant coefficients.
+
+eg. `n^2` instead of `n^2 + n + 100`
+
 Several forms of it: 
-- big-Θ notation, 
-- big-O notation, 
+- big-Θ notation,
+- big-O notation,
 - and big-Ω notation.
 
 ## Important authors
