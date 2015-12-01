@@ -16,6 +16,11 @@ Minimax algorithms | Checkers
 
 **Asymptotic Analyisis** is a technique evaluates an algorithm efficiency independently of the computer hardware, programming language, and input.
 
+Several forms of it: 
+- big-Θ notation, 
+- big-O notation, 
+- and big-Ω notation.
+
 ## Important authors
 
 - Thomas Cormen
