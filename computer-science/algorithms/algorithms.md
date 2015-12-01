@@ -18,7 +18,10 @@ Measures how long does it take to compute *n* elements and how much does that ti
 
 For sake of simplicity, we drop the insignificant terms and the constant coefficients.
 
-eg. `n^2` instead of `n^2 + n + 100`
+- eg. `n^2` instead of `n^2 + n + 100`
+- Drop factors too eg. `n^2` instead of `6n^2`
+- **No** need to express the speed of the algorithm in units of time (milliseconds, microseconds, etc).
+
 
 Several forms of it: 
 - big-Θ notation,
