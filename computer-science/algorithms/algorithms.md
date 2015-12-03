@@ -14,7 +14,7 @@ Minimax algorithms | Checkers
 
 **Asymptotic Analyisis** is a technique evaluates an algorithm efficiency independently of the computer hardware, programming language, and input.
 
-Measures how long does it take to compute *n* elements and how much does that time increases when the *n* input increases.
+We use asymptotic notation to express the rate of growth of an algorithm's running time in terms of the input size **n**.
 
 For sake of simplicity, we drop the insignificant terms and the constant coefficients.
 
@@ -31,6 +31,9 @@ So `Θ(n) == Θ(f(n))`
 
 > When we use big-Θ notation, we're saying that we have an asymptotically tight bound on the running time. "Asymptotically" because it matters for only large values of n. "Tight bound" because we've nailed the running time to within a constant factor above and below.
 [Khan academy](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation)
+
+`Θ(n^0)` == `Θ(1)` which means that the algorithm will take the same amount of time, regardless the input size.
+
 
 ## Important authors
 
