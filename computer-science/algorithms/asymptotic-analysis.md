@@ -23,4 +23,13 @@ So <code>Θ(n) == Θ(f(n))</code>
 
 <code>Θ(n<sup>0</sup>) == Θ(1)</code> which means that the algorithm will take the same amount of time, regardless the input size. For example, if you were given an array that is already sorted into increasing order and you had to find the minimum element, it would take constant time, since the minimum element must be at index 0.
 
-<code>Θ(lgn) == Θ(log<sub>2</sub>n)</code>
+<code>lgn == log<sub>2</sub>n</code> is the same thing. It's just a shorter way to write it.
+
+Θ(1)
+Θ(lgn)
+Θ(n)
+Θ(nlgn)
+Θ(n<sup>2</sup>)
+Θ(n<sup>2</sup>lgn)
+Θ(n<sup>3</sup>)
+Θ(2<sup>n</sup>)
