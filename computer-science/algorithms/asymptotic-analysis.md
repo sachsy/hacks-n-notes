@@ -25,6 +25,8 @@ So <code>Θ(n) == Θ(f(n))</code>
 
 <code>lgn == log<sub>2</sub>n</code> is the same thing. It's just a shorter way to write it.
 
+## Big-Oh notations order from most eficient to least.
+
 - <code>Θ(1)</code>
 - <code>Θ(lgn)</code>
 - <code>Θ(n)</code>
