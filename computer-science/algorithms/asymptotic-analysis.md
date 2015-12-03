@@ -28,10 +28,10 @@ So <code>Θ(n) == Θ(f(n))</code>
 ## Big-Oh notations order from most eficient to least.
 
 - <code>Θ(1)</code>
-- <code>Θ(lg n)</code>
+- <code>Θ(lg<sub> </sub>n)</code>
 - <code>Θ(n)</code>
-- <code>Θ(n lg n)</code>
+- <code>Θ(n·lg<sub> </sub>n)</code>
 - <code>Θ(n<sup>2</sup>)</code>
-- <code>Θ(n<sup>2</sup>lgn)</code>
+- <code>Θ(n<sup>2</sup>·lg<sub> </sub>n)</code>
 - <code>Θ(n<sup>3</sup>)</code>
 - <code>Θ(2<sup>n</sup>)</code>
