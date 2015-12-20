@@ -25,5 +25,5 @@
    * [Algorithms](computer-science/algorithms/readme.md)
        * [Binary Search](computer-science/algorithms/binary-search.js)
        * [Asymptotic Analysis](computer-science/algorithms/asymptotic-analysis.md)
-   * Disk Storage
+   * [Disk Storage](computer-science/disk-storage.md)
 
