@@ -22,7 +22,7 @@ Set animation direction `alternate` if you want to start when it ended.
 
 [](codepen://cuadraman/QbZqem)
 
-[](codepen://cuadraman/XbdoGa)
+[](codepen://cuadraman/XbdoGa?height=440)
 
 ### Children
 
