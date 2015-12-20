@@ -1,3 +1,9 @@
+
+# Atom's tern-js plugin config file
+
+`.tern-project`
+
+```js
 {
   "ecmaVersion": 6,
   "libs": [
@@ -13,3 +19,4 @@
     }
   }
 }
+```
