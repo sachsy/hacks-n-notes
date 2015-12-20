@@ -1,8 +1,6 @@
 
 # ES6 notes
 
-<!-- toc -->
-
 [Slides](https://github.com/aaronfrost/es6-femasters-slides)
 
 * **ECMAScript** is now **EcmaScript**. Which is a standard for the API JavaScript and other languages use.
