@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [LICENSE](LICENSE)
    * [Git](git/readme.md)
-       * Git Workflow
+       * [Git Workflow](git/git-workflow.md)
        * Git Tags
        * Git Config
 * [Shell / Unix](shell/shell__unix.md)
