@@ -14,9 +14,9 @@ The `#` shows that the user is a **root user** (administrator)
 
 ## Important Directories & files
 
-- `home/` is where the user directories are.
-- `/var/log/` is where the system logs are.
-- `/var/log/dmesg/` the boot log.
+- `home/` Where the user directories are.
+- `/var/log/` Where the system logs are.
+- `/var/log/dmesg/` The boot log.
 
 ## Filesystem Hierarchy Standard
 
