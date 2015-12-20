@@ -122,6 +122,7 @@ function doSomething() {
 ## Rest Parameters
 
 Treats arguments as an array
+
 ```javascript
 function foo(...bar) {
   console.log(bar.join(' ')); // Logs 'I can haz teh arguments'
