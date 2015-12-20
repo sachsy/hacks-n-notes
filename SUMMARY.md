@@ -30,5 +30,5 @@
    * [Machine Learning](computer-science/machine-learning/readme.md)
        * [Deep Learning Companies](computer-science/machine-learning/deep-learning-companies.md)
    * [Disk Storage](computer-science/disk-storage.md)
-* Configurations
+* [Configurations](configs/README.md)
 
