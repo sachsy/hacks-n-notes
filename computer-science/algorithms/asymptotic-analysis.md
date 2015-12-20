@@ -11,27 +11,27 @@ For sake of simplicity, we drop the insignificant terms and the constant coeffic
 - **No** need to express the speed of the algorithm in units of time (milliseconds, microseconds, etc).
 
 Several forms of it: 
-- `big-Θ` notation,
-- `big-O` notation,
-- and `big-Ω` notation.
+- $$big-Θ$$ notation,
+- $$big-O$$ notation,
+- and $$big-Ω$$ notation.
 
 So <code>Θ(n) == Θ(f(n))</code>
 
-> When we use big-Θ notation, we're saying that we have an asymptotically tight bound on the running time. "Asymptotically" because it matters for only large values of n. "Tight bound" because we've nailed the running time to within a constant factor above and below. 
+> When we use $$big-Θ$$ notation, we're saying that we have an asymptotically tight bound on the running time. "Asymptotically" because it matters for only large values of n. "Tight bound" because we've nailed the running time to within a constant factor above and below. 
 
 > — [Khan academy](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation)
 
-<code>Θ(n<sup>0</sup>) == Θ(1)</code> which means that the algorithm will take the same amount of time, regardless the input size. For example, if you were given an array that is already sorted into increasing order and you had to find the minimum element, it would take constant time, since the minimum element must be at index 0.
+$$Θ(n^0) == Θ(1)$$ which means that the algorithm will take the same amount of time, regardless the input size. For example, if you were given an array that is already sorted into increasing order and you had to find the minimum element, it would take constant time, since the minimum element must be at index 0.
 
-<code>lgn == log<sub>2</sub>n</code> is the same thing. It's just a shorter way to write it.
+$$lgn == log_2n$$ is the same thing. It's just a shorter way to write it.
 
 ## Big-Oh notations order from most eficient to least.
 
-- <code>Θ(1)</code>
-- <code>Θ(lg<sub> </sub>n)</code>
-- <code>Θ(n)</code>
-- <code>Θ(n·lg<sub> </sub>n)</code>
-- <code>Θ(n<sup>2</sup>)</code>
-- <code>Θ(n<sup>2</sup>·lg<sub> </sub>n)</code>
-- <code>Θ(n<sup>3</sup>)</code>
-- <code>Θ(2<sup>n</sup>)</code>
+- $$Θ(1)$$
+- $$Θ(lg n)$$
+- $$Θ(n)$$
+- $$Θ(n·lgn)$$
+- $$Θ(n^2)$$
+- $$Θ(n^2·lg n)$$
+- $$Θ(n^3)$$
+- $$Θ(2^n)$$
