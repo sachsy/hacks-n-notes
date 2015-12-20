@@ -1,3 +1,3 @@
 {
-    "plugins": ["codepen","exercises","structured-toc","katex","youtube"]
+    "plugins": ["codepen","structured-toc","katex","youtube"]
 }
