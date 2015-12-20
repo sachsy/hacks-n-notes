@@ -1,69 +1,6 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [FrontEnd Masters - ES6 notes](#frontend-masters---es6-notes)
-  - [Proper Tail Call (PTC)](#proper-tail-call-ptc)
-  - [Function Hoisting](#function-hoisting)
-  - [Variables](#variables)
-    - [Temporal Dead Zone](#temporal-dead-zone)
-  - [Rest Parameters](#rest-parameters)
-    - [rules](#rules)
-  - [Spread Operator](#spread-operator)
-    - [concat arrays with spread](#concat-arrays-with-spread)
-  - [Descructuring](#descructuring)
-    - [Alias](#alias)
-    - [Simpler way](#simpler-way)
-    - [Default values](#default-values)
-    - [Irrefutable pattern](#irrefutable-pattern)
-    - [All patterns](#all-patterns)
-    - [Patterns w/ Default Values](#patterns-w-default-values)
-    - [Patterns - Nested](#patterns---nested)
-  - [Destructuring Arrays](#destructuring-arrays)
-    - [Swapping variables](#swapping-variables)
-    - [Method signature](#method-signature)
-    - [Nested Destructuring Array](#nested-destructuring-array)
-    - [Pattern Errors](#pattern-errors)
-    - [Refutable](#refutable)
-  - [Arrow Functions](#arrow-functions)
-    - [Parenthesis-Parameter Rules](#parenthesis-parameter-rules)
-    - [REAL benefit: lexical binding of 'this'](#real-benefit-lexical-binding-of-this)
-  - [Classes](#classes)
-    - [Classes gotchas](#classes-gotchas)
-    - [Extend classes](#extend-classes)
-  - [Collections](#collections)
-    - [SET](#set)
-    - [MAP](#map)
-      - [Objects as keys](#objects-as-keys)
-    - [WEAKMAP](#weakmap)
-  - [Modules](#modules)
-    - [Default export](#default-export)
-    - [Multiple exports.](#multiple-exports)
-    - [Export as](#export-as)
-    - [Cyclical Dependencies](#cyclical-dependencies)
-    - [More importing](#more-importing)
-    - [More Exporting](#more-exporting)
-    - [Re-exporting](#re-exporting)
-  - [Modules - Programatic Loading API](#modules---programatic-loading-api)
-    - [System.import API](#systemimport-api)
-      - [Load All](#load-all)
-    - [System "Module" functions](#system-module-functions)
-    - [Module HTML Tag](#module-html-tag)
-  - [Promises](#promises)
-    - [Promise Constructor](#promise-constructor)
-    - [Promise Instance](#promise-instance)
-    - [Catch](#catch)
-    - [All](#all)
-    - [Static Promise Methods](#static-promise-methods)
-  - [Generators](#generators)
-    - [Basic Syntax](#basic-syntax)
-    - [Yield](#yield)
-    - [Iterating on Generators](#iterating-on-generators)
-    - [Generator with arguments](#generator-with-arguments)
+# ES6 notes
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# FrontEnd Masters - ES6 notes
 
 [Slides](https://github.com/aaronfrost/es6-femasters-slides)
 
@@ -72,7 +9,7 @@
 * ES.Next is a pointer to the next version of ES
 * ES Harmony is the backlog of the new stuff coming to ES and the versions in development.
  
-
+<!-- toc -->
 
 ## Proper Tail Call (PTC)
 
