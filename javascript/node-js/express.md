@@ -10,4 +10,3 @@
 - **MIT** license allows you to do anything
 - **GNU/GPL** license can NOT be used in close-sourced software
 - Dual license MIT+GPL is possible.
-- 
