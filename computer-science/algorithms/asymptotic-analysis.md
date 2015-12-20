@@ -2,18 +2,18 @@
 
 The **Asymptotic Analysis** is a technique to check the efficiency from an algorithm. It doesn't take into account the computer hardware, programming language, or input.
 
-We use asymptotic notation to express the rate of growth of an algorithm's running time in terms of the input size **n**.
+We use asymptotic notation to express the rate of growth of an algorithm's running time for the input size **n**.
 
 For sake of simplicity, we drop the insignificant terms and the constant coefficients.
 
 - eg. <code>n<sup>2</sup></code> instead of <code>n<sup>2</sup> + n + 100</code>
-- Drop factors too eg. <code>n<sup>2</suo></code> instead of <code>6n<sup>2</sup></code>
+- Drop factors too eg. $$n_2$$ instead of $$6n^2$$
 - **No** need to express the speed of the algorithm in units of time (milliseconds, microseconds, etc).
 
 Several forms of it: 
-- big-Θ notation,
-- big-O notation,
-- and big-Ω notation.
+- `big-Θ` notation,
+- `big-O` notation,
+- and `big-Ω` notation.
 
 So <code>Θ(n) == Θ(f(n))</code>
 
