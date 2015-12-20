@@ -5,6 +5,7 @@
    * [Git](git/readme.md)
        * Git Workflow
        * Git Tags
+       * Git Config
 * [Shell / Unix](shell/shell__unix.md)
    * [Bash Cheat Sheet](shell/bash-cheatsheet.markdown)
    * [Linux CLI](shell/linux-cli.md)
