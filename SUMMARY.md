@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * [LICENSE](LICENSE)
+   * [LICENSE](LICENSE.md)
 * [Shell / Unix](shell/shell__unix.md)
    * [Bash Cheat Sheet](shell/bash-cheatsheet.md)
    * [Linux CLI](shell/linux-cli.md)
