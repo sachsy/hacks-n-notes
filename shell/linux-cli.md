@@ -2,7 +2,7 @@
 
 ## Prompt
 
-The CLI Prompt structure is composed as `USERNAME@SERVER:DIRECTORY$`
+The CLI Prompt structure composed as `USERNAME@SERVER:DIRECTORY$`
 
 eg. `jorge@localhost:~$`
 
