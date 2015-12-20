@@ -32,5 +32,5 @@
    * [Disk Storage](computer-science/disk-storage.md)
 * [Configurations](configs/README.md)
    * [TernJs](configs/tern-project.md)
-   * Oh my zshell
+   * [Oh my zshell](configs/zshrc.md)
 
