@@ -1,7 +1,11 @@
 
 # Atom's tern-js plugin config file
 
-Filename: `.tern-project`
+## File name
+
+`.tern-project`
+
+## File content
 
 ```js
 {
