@@ -20,6 +20,8 @@ Set animation direction `alternate` if you want to start when it ended.
 
 [](codepen://cuadraman/QbZqem?theme=0)
 
+[](codepen://cuadraman/XbdoGa?theme=0)
+
 ### Children
 
 ```css
