@@ -1,6 +1,7 @@
 
 # ES6 notes
 
+<!-- toc -->
 
 [Slides](https://github.com/aaronfrost/es6-femasters-slides)
 
@@ -9,7 +10,6 @@
 * ES.Next is a pointer to the next version of ES
 * ES Harmony is the backlog of the new stuff coming to ES and the versions in development.
  
-<!-- toc -->
 
 ## Proper Tail Call (PTC)
 
