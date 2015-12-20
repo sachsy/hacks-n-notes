@@ -3,7 +3,6 @@
 * [Introduction](README.md)
    * [LICENSE](LICENSE.md)
    * [Summary](SUMMARY.md)
-   * [Detailed TOC](detailed-toc.md)
 * [Shell / Unix](shell/shell__unix.md)
    * [Bash Cheat Sheet](shell/bash-cheatsheet.md)
    * [Linux CLI](shell/linux-cli.md)
