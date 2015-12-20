@@ -1,5 +1,7 @@
 # Linux CLI
 
+<!-- toc -->
+
 ## Prompt
 
 The CLI Prompt structure composed as `USERNAME@SERVER:DIRECTORY$`
