@@ -5,10 +5,10 @@
 
 [Slides](https://github.com/aaronfrost/es6-femasters-slides)
 
-* ECMAScript is now EcmaScript. Which is a standard for the API JavaScript and other languages use.
-* TC39 stands for Technical Committee which regulate the EcmaScript API.
-* ES.Next is a pointer to the next version of ES
-* ES Harmony is the backlog of the new stuff coming to ES and the versions in development.
+* **ECMAScript** is now **EcmaScript**. Which is a standard for the API JavaScript and other languages use.
+* **TC39** stands for Technical Committee which regulate the **EcmaScript API**.
+* **ES.Next** is a pointer to the next version of ES
+* **ES Harmony** is the backlog of the new stuff coming to ES and the versions in development.
  
 
 ## Proper Tail Call (PTC)
@@ -24,7 +24,7 @@ Tail position = the last instruction to fire before the return statement
 Tail call = calling another function from the tail position
 Close call = when the last instruction has to return to the method to do something.  eg.  return 1 + bar()
 
-Only works on Strict Mode
+It only works on Strict Mode.
 
 ## Function Hoisting
 
