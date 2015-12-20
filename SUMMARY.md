@@ -14,7 +14,7 @@
 * [Javascript](javascript/javascript.md)
    * [Functional Programming](javascript/functional-programming/js-functional-programming.md)
        * [Recursion](javascript/functional-programming/recursion.md)
-       * FP vs OOP
+       * [FP vs OOP](javascript/functional-programming/fp-vs-oop.md)
    * [ECMASCRIPT 6](javascript/es6-cheatsheet.md)
    * [NodeJS](javascript/node-js/node-js.md)
        * [ExpressJS](javascript/node-js/express.md)
