@@ -23,7 +23,7 @@
    * [CSS3 Animations](css/css3-animations.md)
 * [Computer Science](computer-science/readme.md)
    * [Algorithms](computer-science/algorithms/readme.md)
-       * [Binary Search](computer-science/algorithms/binary-search.js)
+       * [Binary Search](computer-science/algorithms/binary-search.md)
        * [Asymptotic Analysis](computer-science/algorithms/asymptotic-analysis.md)
    * [Machine Learning](computer-science/machine-learning/readme.md)
        * [Deep Learning Companies](computer-science/machine-learning/deep-learning-companies.md)
