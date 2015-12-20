@@ -20,4 +20,5 @@
 * [Databases](databases/readme.md)
    * [PostgreSQL](databases/postgresql.md)
 * [CSS](css/readme.md)
+   * CSS3 Animations
 
