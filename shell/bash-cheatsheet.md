@@ -1,8 +1,6 @@
 # Bash CheatSheet
 Reference [Lynda.com - Up and running Bash Scripting](http://www.lynda.com/Bash-tutorials/Up-Running-Bash-Scripting/142989-2.htm)
 
-<!-- toc -->
-
 ## Basics
 
 ### Brace expansion
