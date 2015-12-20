@@ -1,11 +1,11 @@
 # Summary
 
 * [Introduction](README.md)
-   * [LICENSE](LICENSE)
    * [Git](git/readme.md)
        * [Git Workflow](git/git-workflow.md)
        * [Git Tags](git/git-tags.md)
        * [Git Config](git/git-config.md)
+   * [LICENSE](LICENSE)
 * [Shell / Unix](shell/shell__unix.md)
    * [Bash Cheat Sheet](shell/bash-cheatsheet.md)
    * [Linux CLI](shell/linux-cli.md)
