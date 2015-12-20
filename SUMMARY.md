@@ -21,5 +21,5 @@
    * [PostgreSQL](databases/postgresql.md)
 * [CSS](css/readme.md)
    * [CSS3 Animations](css/css3-animations.md)
-* Computer Science
+* [Computer Science](computer-science/readme.md)
 
