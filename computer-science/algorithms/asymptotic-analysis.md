@@ -1,6 +1,6 @@
 # Asymptotic Analysis
 
-**Asymptotic Analyisis** is a technique evaluates an algorithm efficiency independently of the computer hardware, programming language, and input.
+The **Asymptotic Analysis** is a technique to check the efficiency from an algorithm. It doesn't take into account the computer hardware, programming language, or input.
 
 We use asymptotic notation to express the rate of growth of an algorithm's running time in terms of the input size **n**.
 
