@@ -4,7 +4,7 @@
    * [LICENSE](LICENSE)
    * [Git](git/readme.md)
        * [Git Workflow](git/git-workflow.md)
-       * Git Tags
+       * [Git Tags](git/git-tags.md)
        * Git Config
 * [Shell / Unix](shell/shell__unix.md)
    * [Bash Cheat Sheet](shell/bash-cheatsheet.markdown)
