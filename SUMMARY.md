@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
    * [LICENSE](LICENSE)
-   * Git
+   * [Git](git/git.md)
 * [Shell / Unix](shell/shell__unix.md)
    * [Bash Cheat Sheet](shell/bash-cheatsheet.markdown)
    * [Linux CLI](shell/linux-cli.md)
