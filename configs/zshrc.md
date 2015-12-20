@@ -1,7 +1,7 @@
 
 # Oh-my-zshell config file
 
-## Filename
+## File name
 `.zshrc`
 
 
