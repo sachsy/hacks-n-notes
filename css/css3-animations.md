@@ -1,5 +1,7 @@
 # CSS3 Animations
 
+<!-- toc -->
+
 Safari still needs -webkit- prefixes.
 
 ## Usefull properties
