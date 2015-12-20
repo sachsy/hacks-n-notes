@@ -4,6 +4,7 @@
    * [LICENSE](LICENSE)
    * [Shell / Unix](shell/shell__unix.md)
        * [Bash Cheat Sheet](shell/bash-cheatsheet.markdown)
+       * Linux CLI
 * [Javascript](javascript/javascript.md)
    * [ECMASCRIPT 6](javascript/es6-cheatsheet.md)
    * [Functional Programming](javascript/functional-programming/js-functional-programming.md)
