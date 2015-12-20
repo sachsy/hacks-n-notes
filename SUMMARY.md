@@ -5,7 +5,7 @@
 * [Shell / Unix](shell/shell__unix.md)
    * [Bash Cheat Sheet](shell/bash-cheatsheet.md)
    * [Linux CLI](shell/linux-cli.md)
-   * [Colors in shell](shell/colors.sh)
+   * [Colors in shell](shell/colors.md)
 * [Git](git/readme.md)
    * [Git Workflow](git/git-workflow.md)
    * [Git Tags](git/git-tags.md)
