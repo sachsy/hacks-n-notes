@@ -7,7 +7,7 @@
        * [Git Tags](git/git-tags.md)
        * [Git Config](git/git-config.md)
 * [Shell / Unix](shell/shell__unix.md)
-   * [Bash Cheat Sheet](shell/bash-cheatsheet.markdown)
+   * [Bash Cheat Sheet](shell/bash-cheatsheet.md)
    * [Linux CLI](shell/linux-cli.md)
    * [Colors in shell](shell/colors.sh)
 * [Javascript](javascript/javascript.md)
