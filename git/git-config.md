@@ -1,6 +1,8 @@
 
 # Git Configuration Levels
 
+<!-- toc -->
+
 The first thing you should do when you get started using Git is to set your configuration options.
 
 Git allows you to set configuration options at three different levels. The default value for Git config is --local.
