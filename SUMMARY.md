@@ -26,6 +26,6 @@
        * [Binary Search](computer-science/algorithms/binary-search.js)
        * [Asymptotic Analysis](computer-science/algorithms/asymptotic-analysis.md)
    * [Disk Storage](computer-science/disk-storage.md)
-   * Machine Learning
+   * [Machine Learning](computer-science/machine-learning/readme.md)
        * Deep Learning Companies
 
