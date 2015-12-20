@@ -24,5 +24,5 @@
 * [Computer Science](computer-science/readme.md)
    * [Algorithms](computer-science/algorithms/readme.md)
        * [Binary Search](computer-science/algorithms/binary-search.js)
-       * Asymptotic Analysis
+       * [Asymptotic Analysis](computer-science/algorithms/asymptotic-analysis.md)
 
