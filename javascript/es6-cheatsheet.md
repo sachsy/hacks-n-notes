@@ -67,22 +67,6 @@ function foo(...bar) {
 foo('I', 'can', 'haz', 'teh', 'arguments');
 ```
 
-{% exercise %}
-Define a variable `x` equal to 10.
-{% initial %}
-var x =
-{% solution %}
-var x = 10;
-{% validation %}
-assert(x == 10);
-{% context %}
-// This is context code available everywhere
-// The user will be able to call magicFunc in his code
-function magicFunc() {
-    return 3;
-}
-{% endexercise %}
-
 ### rules
 
 1. It is similar to `arguments` but the rest params are a real array.
