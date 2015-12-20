@@ -23,4 +23,5 @@
    * [CSS3 Animations](css/css3-animations.md)
 * [Computer Science](computer-science/readme.md)
    * [Algorithms](computer-science/algorithms/readme.md)
+       * Binary Search
 
