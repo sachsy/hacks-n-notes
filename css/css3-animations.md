@@ -18,6 +18,8 @@ Set animation direction `alternate` if you want to start when it ended.
 
 `back-face-visibility` to show the back face when rotating.
 
+[](codepen://cuadraman/QbZqem?height=800&theme=0)
+
 ### Children
 
 ```css
