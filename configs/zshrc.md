@@ -1,3 +1,13 @@
+
+# Oh-my-zshell config file
+
+## Filename
+`.zshrc`
+
+
+## File content
+
+```sh
 plugins=(git vi-mode)
 
 # Preferred editor for local and remote sessions
@@ -36,3 +46,4 @@ bindkey '^r' history-incremental-search-backward
 bindkey '^P' up-history
 bindkey '^N' down-history
 
+```
