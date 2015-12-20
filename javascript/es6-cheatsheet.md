@@ -20,9 +20,9 @@ The current limit of recursive calls is around 10k in Chrome and 49k in FF.
 
 ES6 brings proper tail calls.
 
-Tail position = the last instruction to fire before the return statement
-Tail call = calling another function from the tail position
-Close call = when the last instruction has to return to the method to do something.  eg.  return 1 + bar()
+- Tail position equals the last instruction to fire before the return statement.
+- Tail call equals calling another function from the tail position.
+- Close call equals when the last instruction has to return to the method to do something.  eg.  return 1 + bar()
 
 It only works on Strict Mode.
 
