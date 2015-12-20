@@ -1,49 +1,7 @@
 # Bash CheatSheet
 Reference [Lynda.com - Up and running Bash Scripting](http://www.lynda.com/Bash-tutorials/Up-Running-Bash-Scripting/142989-2.htm)
 
-[Return to blog](https://github.com/vasco3/Blog/wiki)
-
-- [Basics](#basics)
-	- [Brace expansion](#brace-expansion) 
-	- [Padding with zero](#padding-with-zero)
-	- [Redirect](#redirect)
-	- [Search](#search)
-		- [Enable color](#enable-color)
-	- [Awk command](#awk-command)
-- [Bash syntax](#bash-script-syntax)
-- [Echo](#echo)
-- [Variables](#variables)
-	- [Special attributes](#special-attributes)
-	- [Special variables](#special-variables)
-- [Arithmetic](#arithmetic)
-- Comparison & Logic
-	- [Comparison operations](#comparison-operations)
-	- [Non-numeric comparison](#non-numeric-comparison)
-	- [Integer comparison](#integer-comparison)
-	- [Logic operators](#logic-operators)
-	- [String null value](#string-null-value)
-	- [File operators](#file-operators)
-- [Working with strings](#working-with-strings)
-	- [Coloring and styling text](#coloring-and-styling-text)
-- [Date](#date)
-- [Printf](#printf)
-- [Arrays](#arrays)
-	- [Associative arrays](#associative-arrays)
-- [Reading & writing text files](#reading-and-writing-text-files)
-- [Text file as input](#using-a-text-file-as-an-input-for-a-command)
-	- [Here document](#here-document)
-- Conditionals & loops
-	- [The if statement](#the-if-statement)
-	- [The while loop](#the-while-loop)
-	- [The until loop](#the-until-loop)
-	- [The for loop](#the-for-loop)
-	- [Switch case](#switch-case)
-- [Functions](#functions)
-- [Arguments](#arguments)
-- [Flags](#flags)
-- [Input during execution](#input-during-execution)
-	- [Ensuring a response](#ensuring-a-response)
-- [Import files](#import-files)
+<!-- toc -->
 
 ## Basics
 
