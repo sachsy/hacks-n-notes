@@ -18,9 +18,9 @@ Set animation direction `alternate` if you want to start when it ended.
 
 `back-face-visibility` to show the back face when rotating.
 
-[](codepen://cuadraman/QbZqem?theme=0)
+[](codepen://cuadraman/QbZqem)
 
-[](codepen://cuadraman/XbdoGa?theme=0)
+[](codepen://cuadraman/XbdoGa)
 
 ### Children
 
