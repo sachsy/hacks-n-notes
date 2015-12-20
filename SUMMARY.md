@@ -27,4 +27,5 @@
        * [Asymptotic Analysis](computer-science/algorithms/asymptotic-analysis.md)
    * [Disk Storage](computer-science/disk-storage.md)
    * Machine Learning
+       * Deep Learning Companies
 
