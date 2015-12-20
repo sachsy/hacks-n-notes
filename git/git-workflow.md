@@ -1,5 +1,7 @@
 ## Diff
 
+<!-- toc -->
+
 `git diff` allows you to compare different versions of a file against each other.
 
 - On its own, `git diff` compares the working directory to the staged version of the file.
