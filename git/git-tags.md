@@ -1,5 +1,7 @@
 # Git tags
 
+<!-- toc -->
+
 ## Listing Your Tags
 
 - `git tag` will list all the tags in the repo
