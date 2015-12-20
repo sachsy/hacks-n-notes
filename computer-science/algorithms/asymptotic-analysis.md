@@ -23,8 +23,7 @@ So `Θ(n) == Θ(f(n))`
 
 Θ$$(n^0)$$ == Θ(1) which means that the algorithm will take the same amount of time, regardless the input size. For example, to find the smallest element in a sorted array (ASC). It would take constant time, since the smallest element must be at index 0.
 
-$$lgn == log_2n$$ 
-Is the same thing. It's just a shorter way to write it.
+$$lgn == log_2n$$ Is the same thing. It's just a shorter way to write it.
 
 ## Big-Oh notations order from most eficient to least.
 
