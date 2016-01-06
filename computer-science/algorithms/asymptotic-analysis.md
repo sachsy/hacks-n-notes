@@ -25,7 +25,7 @@ So `Θ(n) == Θ(f(n))`
 
 $$lgn == log_2n$$ Is the same thing. It's just a shorter way to write it.
 
-## Big-Oh notations order from most eficient to least.
+## Big-Theta notations order from most eficient to least.
 
 - Θ(1)
 - Θ(lg n)
@@ -35,3 +35,8 @@ $$lgn == log_2n$$ Is the same thing. It's just a shorter way to write it.
 - Θ($$n^2$$lg n)
 - Θ($$n^3$$)
 - Θ($$2^n$$)
+
+## Big-O is not the same as Big-Theta
+
+Big-Theta expresses function growth only by a simplified version of $$f(n)$$.
+In contrast, Big-O considers a lower bound and upper bound.
