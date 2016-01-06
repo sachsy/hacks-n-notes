@@ -39,4 +39,5 @@ $$lgn == log_2n$$ Is the same thing. It's just a shorter way to write it.
 ## Big-O is not the same as Big-Theta
 
 Big-Theta expresses function growth only by a simplified version of $$f(n)$$.
-In contrast, Big-O considers a lower bound and upper bound.
+
+In contrast, Big-O considers a lower bound (best case scenario) and upper bound (worst case scenario).
