@@ -46,8 +46,8 @@ In contrast, Big-O considers upper bound (worst case scenario). Might be impreci
 
 Ok so which is the difference among these notations?
 
-Notation | Bounds
--------- | ------
-Big-Theta | lower and upper bounds
-Big-O | Upper bounds
-Big-Omega | Lower bounds
+Notation | Synonym | Bounds
+-------- | ------------ | ------
+Big-Θ | Big-Theta | lower and upper bounds
+Big-O | Big-O | Upper bounds
+Big-Omega | Big-Omega | Lower bounds
