@@ -42,3 +42,12 @@ Big-Theta expresses function growth only by a simplified version of $$f(n)$$ and
 
 In contrast, Big-O considers upper bound (worst case scenario). Might be imprecise but it is very useful for large values of $$n$$.
 
+## Wait, what? There is also Big-Omega
+
+Ok so which is the difference among these notations?
+
+notation | bounds
+-------- | ------
+Big-Theta | lower and upper bounds
+Big-O | Upper bounds
+Big-Omega | Lower bounds
