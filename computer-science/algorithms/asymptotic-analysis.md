@@ -44,7 +44,7 @@ In contrast, Big-O considers upper bound (worst case scenario). Might be impreci
 
 ## Wait, what? There is also Big-Omega
 
-Ok so which is the difference among these notations?
+OK, so which is the difference among these notations?
 
 Notation | Synonym | Bounds
 -------- | ------------ | ------
