@@ -50,4 +50,4 @@ Notation | Synonym | Bounds
 -------- | ------------ | ------
 Big-Θ | Big-Theta | lower and upper bounds
 Big-O | Big-O | Upper bounds
-Big-Omega | Big-Omega | Lower bounds
+Big-Ω | Big-Omega | Lower bounds
