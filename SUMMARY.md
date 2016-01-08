@@ -35,5 +35,5 @@
    * [TernJs](configs/tern-project.md)
    * [Oh my zshell](configs/zshrc.md)
    * [Vimrc](configs/vimrc.md)
-   * Gitbook config
+   * [Gitbook config](configs/gitbook_config.md)
 
