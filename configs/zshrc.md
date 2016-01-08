@@ -46,4 +46,8 @@ bindkey '^r' history-incremental-search-backward
 bindkey '^P' up-history
 bindkey '^N' down-history
 
+function alertme {
+    echo 'alert-jorge'
+}
+116 export alertme
 ```
