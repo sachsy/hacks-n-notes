@@ -34,5 +34,5 @@
 * [Configurations](configs/README.md)
    * [TernJs](configs/tern-project.md)
    * [Oh my zshell](configs/zshrc.md)
-   * Vimrc
+   * [Vimrc](configs/vimrc.md)
 
