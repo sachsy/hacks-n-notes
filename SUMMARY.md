@@ -28,6 +28,7 @@
        * [Binary Search](computer-science/algorithms/binary-search.md)
        * [Asymptotic Analysis](computer-science/algorithms/asymptotic-analysis.md)
        * [Logarithms](computer-science/algorithms/logarithms.md)
+       * Selection Sort
    * [Machine Learning](computer-science/machine-learning/readme.md)
        * [Deep Learning Companies](computer-science/machine-learning/deep-learning-companies.md)
    * [Disk Storage](computer-science/disk-storage.md)
