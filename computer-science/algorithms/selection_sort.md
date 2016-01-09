@@ -1,5 +1,16 @@
 # Selection Sort
 
+Sorts an array.
+
+### Pseudo code
+
+1. find the minimum value in the array
+2. swap it for the first item
+3. find the minimum value in the rest of the array
+4. swap it for the second item
+5. repeat until reaching the last slot.
+
+
 ## Asymptotic analysis
 
 O($$n^2$$)
