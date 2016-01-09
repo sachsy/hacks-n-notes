@@ -4,11 +4,11 @@ Sorts an array.
 
 ### Pseudo code
 
-1. find the minimum value in the array
-2. swap it for the first item
-3. find the minimum value in the rest of the array
-4. swap it for the second item
-5. repeat until reaching the last slot.
+1. Find the minimum value in the array.
+2. Swap it for the first item.
+3. Find the minimum value in the rest of the array.
+4. Swap it for the second item.
+5. Repeat until reaching the last slot.
 
 
 ## Asymptotic analysis
