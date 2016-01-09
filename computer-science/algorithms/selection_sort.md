@@ -1,6 +1,11 @@
 # Selection Sort
 
-**Asymptotic analysis:** O($$n^2$$)
+## Asymptotic analysis
+
+O($$n^2$$)
+
+
+## Example code
 
 ```javascript
 var swap = function(array, firstIndex, secondIndex) {
