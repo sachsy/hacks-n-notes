@@ -1,6 +1,6 @@
 # tmux
 
-Keybinding | Action
+Key-binding | Action
 ---------- | ------ 
 `ctrl-b "` | Split panes horizontal
 `ctrl-b %` | Split window vertical in two panes
