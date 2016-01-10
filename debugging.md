@@ -18,6 +18,8 @@ Shortcut | function
 `Ctrl + G` | Go to line
 `Cmd + opt + F` | Search across all sources
 
+[More commands](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts)
+
 ### Console
 
 Command | function
