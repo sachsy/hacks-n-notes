@@ -9,9 +9,19 @@ Shortcut | function
 -------- | --------
 `Cmd + O`  | Open file
 `Cmd + Shift + i` | Open dev tools
+`F8` | Pause / Continue
+`F10` | Step over
+`F11` | Step into
+`?` | menu
+`Cmd + K` | Clear console
+`Esc` | Toggle console drawer
+`Ctrl + G` | Go to line
+`Cmd + opt + F` | Search across all sources
 
 ### Console
 
-`console.trace()`
-`console.dir()`
-`console.table()`
+Command | function
+------- | --------
+`console.trace()` | Show stack trace
+`console.dir()` | Gives more data than `console.log`
+`console.table()` | display data as table
