@@ -47,8 +47,8 @@ C# Static classes are like JS Object literals. They can't be instantiated, but t
 eg. of a C# class in JS
 
 ```javascript
-var MathFunctions = {
-  sumToNumbers: function (num1, num2) {
+const MathFunctions = {
+  sumToNumbers (num1, num2) {
     return num1 + num2;
   }
 }
