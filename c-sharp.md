@@ -40,6 +40,19 @@ Lists are a wrapper on Array to make it usable as the JS Array.
 
 
 
+## C# Static Classes ##
+
+C# Static classes are like JS Object literals. They can't be instantiated, but the methods are usable.
+
+eg. of a C# class in JS
+
+```javascript
+var MathFunctions = {
+  sumToNumbers: function (num1, num2) {
+    return num1 + num2;
+  }
+}
+```
 ---
 
 
