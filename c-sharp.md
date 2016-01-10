@@ -2,13 +2,12 @@
 
 > A guide for JavaScript developers who want to understand C#
 
-A guide for JavaScript developers who want to understand C#.
-These notes are from a perspective of a JavaScript developer trying to deeply understand the similarities and differences between JS and C#. 
+These notes are from a perspective of a JavaScript developer. I am trying to understand the similarities and differences between JavaScript (JS) and C#. 
 
 ## Dictionary
 
-A Dictionary is similar to storing key and values in an object literal
-example:
+A Dictionary is like storing key and values in an object literal example:
+
 ```javascript
 var colorValues = {
   "blue": "#00F",
@@ -18,7 +17,7 @@ var colorValues = {
 
 The difference is that in JavaScript the key is always a string and you can have different type of objects in the same dictionary. 
 
-_Note: In C# the key types are mostly **strings** or **ints**. I wonder if there is any other type useful for a Dictionary. I could think of Enums._
+> Note: In C# the key types are mostly *strings* or *ints*. I wonder if there is any other type useful for a Dictionary. I could think of *Enums*.
 
 JS Arrays are like C# Dictionaries with key-value type of int.
 
