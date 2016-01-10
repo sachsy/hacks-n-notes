@@ -38,5 +38,5 @@
    * [Vimrc](configs/vimrc.md)
    * [Gitbook config](configs/gitbook_config.md)
 * Browser
-   * Debugging
+   * [Debugging](debugging.md)
 
