@@ -7,7 +7,7 @@
    * [Bash Cheat Sheet](shell/bash-cheatsheet.md)
    * [Linux CLI](shell/linux-cli.md)
    * [Colors in shell](shell/colors.md)
-   * tmux
+   * [tmux](shell/tmux.md)
 * [Git](git/readme.md)
    * [Git Workflow](git/git-workflow.md)
    * [Git Tags](git/git-tags.md)
