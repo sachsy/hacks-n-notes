@@ -1,6 +1,7 @@
 # Modules
 
-Like CommonJS
+- ES6 modules do *not* need **'use strict'**
+- Similar to *CommonJS*
 
 ## Default export
 The default means will import the default export.
