@@ -23,9 +23,9 @@ Key-binding | Action
 `ctrl-b c` | Create window
 `ctrl-b ,` | Renames window
 `ctrl-b number` | Hops to window
-`ctrl-b d` | Dettaches session
+`ctrl-b d` | De-attaches session
 `tmux  ls` | List sessions
 `tmux attach -t 0` | To reattach session with name `0`
 `tmux kill-session -t 0` | To kill session `0`
-`ctrl-b :select-layout even-horizontal` | To resize equally the panes
+`ctrl-b :select-layout even-horizontal` | To re-size the panes in equal widths.
 
