@@ -9,7 +9,6 @@
 * **ES Harmony** is the backlog of the new stuff coming to ES and the versions in development.
  
 
-
 ## Function Hoisting
 
 ```javascript
