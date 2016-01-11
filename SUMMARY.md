@@ -19,6 +19,7 @@
    * [ECMASCRIPT 6](javascript/es6-cheatsheet.md)
        * [Map](javascript/map.md)
        * [Proper Tail Call](javascript/proper_tail_call.md)
+       * Rest parameters
    * [NodeJS](javascript/node-js/node-js.md)
        * [ExpressJS](javascript/node-js/express.md)
        * [NodeJS API](javascript/node-js/native-api.md)
