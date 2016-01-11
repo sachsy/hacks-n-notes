@@ -1,6 +1,6 @@
 # Map
 
-No typecasting in keys.
+> Note: No typecasting in keys.
 
 ## Creating Maps
 
