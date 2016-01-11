@@ -4,7 +4,7 @@ David Herman
 
 *Proper Tail Call (PTC)* allows recursive calls without flooding the memory usage with garbage. 
 
-The current limit of recursive calls is around 10k in Chrome and 49k in FF. *(Aug 2015)*
+The current limit of recursive calls is around **10k in Chrome** and **49k in FireFox**. *(Aug 2015)*
 
 ES6 brings proper tail calls.
 
