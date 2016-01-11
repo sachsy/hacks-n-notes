@@ -24,6 +24,7 @@
        * [Object short hand](javascript/object_short_hand.md)
        * [Destructuring objects](javascript/destructuring_objects.md)
        * [Destructuring arrays](javascript/destructuring_arrays.md)
+       * Arrow functions
    * [NodeJS](javascript/node-js/node-js.md)
        * [ExpressJS](javascript/node-js/express.md)
        * [NodeJS API](javascript/node-js/native-api.md)
