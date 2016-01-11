@@ -23,6 +23,7 @@
        * [Spread operator](javascript/spread_operator.md)
        * [Object short hand](javascript/object_short_hand.md)
        * [Destructuring objects](javascript/destructuring_objects.md)
+       * Destructuring arrays
    * [NodeJS](javascript/node-js/node-js.md)
        * [ExpressJS](javascript/node-js/express.md)
        * [NodeJS API](javascript/node-js/native-api.md)
