@@ -26,7 +26,7 @@
        * [Destructuring arrays](javascript/destructuring_arrays.md)
        * [Arrow functions](javascript/arrow_functions.md)
        * [Classes](javascript/classes.md)
-       * Modules
+       * [Modules](javascript/modules.md)
    * [NodeJS](javascript/node-js/node-js.md)
        * [ExpressJS](javascript/node-js/express.md)
        * [NodeJS API](javascript/node-js/native-api.md)
