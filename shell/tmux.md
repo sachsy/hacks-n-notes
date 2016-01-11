@@ -1,6 +1,6 @@
 # tmux
 
-**tmux** is a screen manager for Unix.
+**tmux** is a screen manager for Unix terminals.
 
 #### Pros
 
