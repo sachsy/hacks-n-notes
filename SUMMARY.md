@@ -21,7 +21,7 @@
        * [Proper Tail Call](javascript/proper_tail_call.md)
        * [Rest parameters](javascript/rest_parameters.md)
        * [Spread operator](javascript/spread_operator.md)
-       * Object short hand
+       * [Object short hand](javascript/object_short_hand.md)
    * [NodeJS](javascript/node-js/node-js.md)
        * [ExpressJS](javascript/node-js/express.md)
        * [NodeJS API](javascript/node-js/native-api.md)
