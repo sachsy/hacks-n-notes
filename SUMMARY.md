@@ -5,6 +5,7 @@
    * [Summary](SUMMARY.md)
 * [Shell / Unix](shell/shell__unix.md)
    * [Bash Cheat Sheet](shell/bash-cheatsheet.md)
+       * Basics
    * [Linux CLI](shell/linux-cli.md)
    * [Colors in shell](shell/colors.md)
    * [tmux](shell/tmux.md)
