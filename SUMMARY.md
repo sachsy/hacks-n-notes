@@ -28,6 +28,7 @@
        * [Classes](javascript/classes.md)
        * [Modules](javascript/modules.md)
        * [Generators](javascript/generators.md)
+       * Set
    * [NodeJS](javascript/node-js/node-js.md)
        * [ExpressJS](javascript/node-js/express.md)
        * [NodeJS API](javascript/node-js/native-api.md)
