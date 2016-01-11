@@ -1,5 +1,18 @@
 # tmux
 
+**tmux** is a screen manager for Unix.
+
+#### Pros
+
+- Can be helpful to split screens and add tabs to your terminal. 
+
+#### Cons
+- The shortcuts feel EMACS-ish
+- Might be more convenient to just use *iTerm* split screen instead.
+
+
+## Shortcuts
+
 Key-binding | Action
 ---------- | ------ 
 `ctrl-b "` | Split panes horizontal
