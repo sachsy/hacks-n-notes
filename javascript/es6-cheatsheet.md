@@ -40,15 +40,6 @@ function doSomething() {
 ```
 
 
-## Object short-hand
-
-```javascript
-const x = 4;
-const y = 2;
-
-const o = { x, y, z: x * y }; // { x: 4, y: 2, z: 8 }
-```
-
 ## Descructuring
 
 "Destructuring allows you to bind a set of variables to a corresponding set of values anywhere that you can normally bind a value to a single variable."
