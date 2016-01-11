@@ -20,7 +20,7 @@ log(zip); // 92442
 
 ### Alias
 
-or we can use alias
+Or we can use alias:
 
 ```javascript
 var address = {
