@@ -4,7 +4,8 @@
 
 #### Pros
 
-- Can be helpful to split screens and add tabs to your terminal. 
+- Helps to split screens 
+- Helps to add tabs
 
 #### Cons
 - The shortcuts feel EMACS-ish
