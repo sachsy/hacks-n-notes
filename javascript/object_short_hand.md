@@ -1,0 +1,2 @@
+# Object short hand
+
