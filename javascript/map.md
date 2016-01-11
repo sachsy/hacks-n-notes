@@ -2,11 +2,26 @@
 
 No typecasting in keys.
 
+## Creating Maps
+
+### Normal way
+
 ```javascript
 const map = new Map();
 map.set('name', 'Jorge');
 map.get('name'); // Jorge
 map.has('name'); // true
+```
+
+### With Arrays
+
+```javascript
+var kvArray = [["key1", "value1"], ["key2", "value2"]];
+
+// Use the regular Map constructor to transform a 2D key-value Array into a map
+var myMap = new Map(kvArray);
+
+myMap.get("key1"); // returns "value1"
 ```
 
 ## Objects as keys
