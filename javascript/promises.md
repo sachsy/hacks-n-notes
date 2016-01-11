@@ -17,11 +17,14 @@ return promise;
 ```
 
 ## Promise Instance
-A `promise` can be in 1 of 4 states
-- fulfilled: successfully resolved (1)
-- rejected: rejected (2)
-- pending: hasn't resolved or rejected yet (undefined)
-- settled: fulfilled or rejected (1 or 2)
+A *promise* can be in 1 of 4 states
+
+state | meaning
+----- | -------
+fulfilled | successfully resolved (1)
+rejected | rejected (2)
+pending | hasn't resolved or rejected yet (undefined)
+settled | fulfilled or rejected (1 or 2)
 
 ### Catch
 You can use .catch instead of second handler in .then
@@ -61,6 +64,8 @@ Method | function
 `Promise.reject(reason)` | Create a promise that is already rejected
 `Promise.resolve(value)` | Create a promise that is already resolved
  
+
+---
 
 ## Use case: Promise to make an HTTP call
 
