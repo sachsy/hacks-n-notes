@@ -29,6 +29,7 @@
        * [Modules](javascript/modules.md)
        * [Generators](javascript/generators.md)
        * [Set](javascript/set.md)
+       * Weak map
    * [NodeJS](javascript/node-js/node-js.md)
        * [ExpressJS](javascript/node-js/express.md)
        * [NodeJS API](javascript/node-js/native-api.md)
