@@ -27,7 +27,7 @@
        * [Arrow functions](javascript/arrow_functions.md)
        * [Classes](javascript/classes.md)
        * [Modules](javascript/modules.md)
-       * Generators
+       * [Generators](javascript/generators.md)
    * [NodeJS](javascript/node-js/node-js.md)
        * [ExpressJS](javascript/node-js/express.md)
        * [NodeJS API](javascript/node-js/native-api.md)
