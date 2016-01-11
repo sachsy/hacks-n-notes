@@ -30,6 +30,7 @@
        * [Generators](javascript/generators.md)
        * [Set](javascript/set.md)
        * [Weak map](javascript/weak_map.md)
+       * Promises
    * [NodeJS](javascript/node-js/node-js.md)
        * [ExpressJS](javascript/node-js/express.md)
        * [NodeJS API](javascript/node-js/native-api.md)
