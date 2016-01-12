@@ -56,4 +56,5 @@
 * Browser
    * [Debugging](debugging.md)
 * [C#](c-sharp.md)
+* Graphics
 
