@@ -14,6 +14,9 @@ Set animation direction `alternate` if you want to start when it ended.
 
 `3d transforms` are now available in all the modern browsers.
 
+`rotateZ`
+[](codepen://cuadraman/JGyoqp)
+
 `transform-origin` is set in the middle by default.
 
 `back-face-visibility` to show the back face when rotating.
