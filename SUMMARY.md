@@ -49,7 +49,7 @@
        * [Recursion](computer-science/algorithms/recursion.md)
            * [Factorial](computer-science/algorithms/factorial.md)
            * [Palindromes](computer-science/algorithms/palindromes.md)
-           * Powers
+           * [Powers](computer-science/algorithms/powers.md)
    * [Machine Learning](computer-science/machine-learning/readme.md)
        * [Deep Learning Companies](computer-science/machine-learning/deep-learning-companies.md)
    * [Disk Storage](computer-science/disk-storage.md)
