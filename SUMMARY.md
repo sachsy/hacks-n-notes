@@ -45,6 +45,7 @@
        * [Asymptotic Analysis](computer-science/algorithms/asymptotic-analysis.md)
        * [Logarithms](computer-science/algorithms/logarithms.md)
        * [Selection Sort](computer-science/algorithms/selection_sort.md)
+       * Insertion Sort
    * [Machine Learning](computer-science/machine-learning/readme.md)
        * [Deep Learning Companies](computer-science/machine-learning/deep-learning-companies.md)
    * [Disk Storage](computer-science/disk-storage.md)
