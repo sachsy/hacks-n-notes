@@ -19,7 +19,7 @@ It works like a poker player would handle cards as he receives them from the dis
 
 Therefor O($$n^2$$)
 
-This is more efficient than Selection Sort in the case that the list would be almost sorted.
+> This is more efficient than Selection Sort in the case that the list would be almost sorted.
 
 ## Implementation
 ```javascript
