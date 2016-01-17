@@ -12,8 +12,6 @@ It is useful to calculate the amount of different combinations of a set. Special
 
 ### Iterative factorial
 
-Notice that we have to do a loop
-
 ```javascript
 var factorial = function(n) {
     var result = 1;
@@ -24,4 +22,12 @@ var factorial = function(n) {
 
     return result;
 };
+```
+
+### Recursive factorial
+
+We don't need to run a loop.
+
+```javascript
+
 ```
