@@ -47,7 +47,7 @@
        * [Selection Sort](computer-science/algorithms/selection_sort.md)
        * [Insertion Sort](computer-science/algorithms/insertion_sort.md)
        * [Recursion](computer-science/algorithms/recursion.md)
-           * Factorial
+           * [Factorial](computer-science/algorithms/factorial.md)
    * [Machine Learning](computer-science/machine-learning/readme.md)
        * [Deep Learning Companies](computer-science/machine-learning/deep-learning-companies.md)
    * [Disk Storage](computer-science/disk-storage.md)
