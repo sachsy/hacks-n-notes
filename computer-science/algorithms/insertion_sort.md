@@ -14,6 +14,13 @@ It works like a poker player would handle cards as he receives them from the dis
 
 ## Asymptotic Analysis
 
+- **Best case** scenario it runs Θ(n).
+- **Worst case** scenario Θ($$n^2$$)
+
+Therefor O($$n^2$$)
+
+This is more efficient than Selection Sort in the case that the list would be almost sorted.
+
 ## Implementation
 ```javascript
 var insert = function(array, rightIndex, value) {
