@@ -10,7 +10,9 @@ For example: $$5! = 1 * 2 * 3 * 4 * 5 = 120$$
 
 It is useful to calculate the amount of different combinations of a set. Specially useful when doing *permutations and combinations*.
 
-### Implementation 
+### Iterative factorial
+
+Notice that we have to do a loop
 
 ```javascript
 var factorial = function(n) {
