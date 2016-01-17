@@ -46,3 +46,9 @@ var factorial = function(n) {
 	return 1;
 }; 
 ```
+
+## Palindromes
+
+> A *palindrome* is a word that it is spelled the same forward than backward. For example "*ROTOR*"
+
+
