@@ -2,8 +2,10 @@
 
 ## Pseudo-code
 
-1. The base case n = 0, and $$x^0 = 1$$
-2. If n is positive compute recursively $$y=x^{(n/2)}$$
+1. The base case $$n = 0$$, and $$x^0 = 1$$
+2. If $$n$$ is positive compute recursively $$y=x^{(n/2)}$$
+3. If $$n$$ is positive and odd, recursively compute $$x^{(n - 1)}$$
+4. If $$n$$ is 
 
 ## Implementation
 
