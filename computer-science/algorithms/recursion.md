@@ -29,5 +29,17 @@ var factorial = function(n) {
 We don't need to run a loop.
 
 ```javascript
-
+var factorial = function(n) {
+	// base case: 
+	if (n === 0) {
+	    return 1;
+	}
+	
+	// recursive case:
+	if (n > 1) {
+	    return n * factorial(n - 1);    
+	}
+	
+	return 1;
+}; 
 ```
