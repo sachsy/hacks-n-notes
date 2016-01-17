@@ -44,7 +44,7 @@ var factorial = function(n) {
 	}
 	
 	return 1;
-}; 
+};
 ```
 
 ## Palindromes
@@ -53,4 +53,7 @@ var factorial = function(n) {
 
 ### Pseudo-code
 
+1. If string has no letters or just one letter then it is a palindrome.
+2. Otherwise, compare first and last letters of the string. If they differ it is not a palindrome.
+3. Keep doing the same until you end up with one letter or 0
 
