@@ -8,7 +8,7 @@ A *factorial* is the product of the integers 1 through $$n$$.
 
 For example: $$5! = 1 * 2 * 3 * 4 * 5 = 120$$
 
-It is useful to calculate the amount of different combinations of a set.
+It is useful to calculate the amount of different combinations of a set. Specially useful when doing *permutations and combinations*.
 
 ### Implementation 
 
