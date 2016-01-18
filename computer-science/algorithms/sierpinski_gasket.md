@@ -10,4 +10,4 @@
 
 ## Implementation
 
-![](codepen://cuadraman/yezmEd)
+[](codepen://cuadraman/yezmEd)
